@@ -8,6 +8,7 @@ body{
 .grid{
     display:grid;
     grid-template-columns: repeat(4,1fr);
+    margin:10;
 }
 @media (max-width: 600px) {
  .grid{
